@@ -6,6 +6,8 @@ Baysian approch assumes the 'a priori' knowledge of probability models, then acc
 ![image](https://github.com/RanMatalon/Baysian-EM-NN/assets/138029692/1b1edfc8-15ed-45dc-a7b3-4f2f7e74f642)
 
 A baysian NN is a Neural Net which its weights are sampled every iteration from a distribution (and are not fixed weights like in classic NN).
+![image](https://github.com/RanMatalon/Baysian-EM-NN/assets/138029692/eb41d454-af30-429a-b021-89ce9589d1d5)
+
 
 I took the famous iris dataset, with another dataset of speaker's recognition that was used in 2 different ways :
   * Small dataset (3 of the 10 speakers, with less features)
